@@ -1,0 +1,100 @@
+.wd-rounded-corners-all-around {
+
+    border-radius: 50px;
+    background-color: #454545;
+    color: white;
+    width: 90%;
+    height: 50%;
+    margin-right: 12px;
+}
+
+.wd-search {
+    width: 100%;
+    height: 50px;
+    margin-left:16px;
+
+}
+
+.wd-settings {
+    color: rgb(29,161,242);
+    font-size: 40px;
+    text-decoration: none;
+    padding-top: 50px;
+    margin-top: 25px;
+}
+
+
+body{
+    font-family: "Arial";
+    background-color: black;
+    color: white;
+    margin-left: 16px;
+    border-left: 1px solid  rgb(47, 51, 54);
+    border-right: 1px solid  rgb(47, 51, 54);
+}
+
+.wd-nav-tabs{
+    width: 100%;
+    color: rgb(29,161,242);
+    padding: 0px
+}
+
+.wd-nav-tabs li{
+    list-style-type: none;
+    display: inline-block;
+    font-size: 15px;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+.wd-nav-tabs .wd-nav-tab-selected{
+    color: rgb(29,161,242);
+    border-bottom: solid 4px rgb(29,161,242);
+    padding-bottom: 16px;
+}
+
+.wd-nav-tabs .wd-nav-tab-not-selected{
+    color: rgb(110, 118, 125);
+}
+
+.wd-title {
+    color: rgb(110, 118, 125);
+    font-size:13px;
+}
+
+.wd-line{
+    border-bottom: 1px solid  rgb(47, 51, 54);
+    min-height: 110px;
+    margin-left: 16px;
+}
+
+
+.wd-images{
+    height: 100px;
+    width: 100px;
+    float: right;
+    margin-right: 16px;
+    border-radius: 15px
+
+}
+
+a{
+    text-decoration: none;
+}
+
+
+
+.wd-small-div{
+    height:10px;
+    border-bottom: 1px solid  rgb(47, 51, 54);
+    margin-left: 16px;
+}
+
+table{
+    width: 100%;
+}
+
+.wd-nav-tabs-line{
+    border-bottom: 1px solid  rgb(47, 51, 54);
+    margin-left: 16px;
+}
