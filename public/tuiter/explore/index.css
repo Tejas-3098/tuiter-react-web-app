@@ -98,3 +98,106 @@ table{
     border-bottom: 1px solid  rgb(47, 51, 54);
     margin-left: 16px;
 }
+
+.wd-centre-div{
+    float: centre;
+    width:  50%;
+    height: 100%;
+    font-family: "Arial";
+    background-color: white;
+    color: black;
+    border-left: 1px solid  #D3D3D3;
+    border-right: 1px solid  #D3D3D3;
+
+}
+.wd-BTS{
+    width: 100%;
+}
+
+.wd-left-div{
+
+    background-color: white;
+    color:black;
+    height:40px;
+    border-bottom: 1px solid  #D3D3D3;
+
+
+
+}
+
+.wd-section-border{
+
+    border-left: 1px solid  #D3D3D3;
+    border-right: 1px solid  #D3D3D3;
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+
+table{
+    width:100%;
+
+}
+
+.wd-logo{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    float:left;
+    padding-right:10px;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:5px;
+
+}
+
+body{
+    background-color:white;
+    color:black;
+    font-family: "Arial";
+}
+
+.button{
+    background-color:white;
+    color:black;
+}
+
+.wd-BTS {
+    width:100%;
+}
+
+.wd-image-text {
+    position: absolute;
+    top:4px;
+    left: 4px;
+}
+
+.wd-right-section{
+    background-color: white;
+    border-left: 1px solid  #D3D3D3;
+    border-right: 1px solid  #D3D3D3;
+
+}
+
+.wd-left-links{
+    color: #D3D3D3;
+    text-decoration:none;
+    padding-left: 15px;
+}
+
+@media (min-width: 992px) {
+    .bd-highlight-icon {
+        overflow: visible;
+    }
+}
+
+.wd-top-image{
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+.wd-image-text {
+    position: absolute;
+    bottom:4px;
+    left: 4px;
+}
