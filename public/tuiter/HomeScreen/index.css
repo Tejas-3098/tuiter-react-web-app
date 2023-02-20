@@ -256,12 +256,12 @@ body{
 
 .wd-content-img{
     height: 264px;
-    width: 504px;
+    width: 380px;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     margin-top: 12px;
     margin-left : 12px;
-    padding-left: 75px;
+    padding-left: 15px;
     margin-bottom: 12px;
 
 }
