@@ -1,0 +1,21 @@
+[
+    {
+      "_id": 123,
+      "userName": "Google",
+      "handle": "google",
+      "avatarIcon": "../public/tuiter/googlelogo.png"
+    },
+    {
+      "_id": 234,
+      "userName": "Walmart",
+      "handle": "walmart",
+      "avatarIcon": "../public/tuiter/walmartlogo.png"
+    },
+    {
+      "_id": 345,
+      "userName": "Apple",
+      "handle": "apple",
+      "avatarIcon": "../public/tuiter/applelogo.png"
+    }
+  ]
+  
