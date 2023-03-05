@@ -1,0 +1,11 @@
+[
+    { "_id": 123, "topic": "Global News", "userName": "The New York Times",
+  "title": "Oil prices continuously rise",
+  "time": "2h",   "image": "../public/tuiter/oilPic.jpeg" },
+  { "_id": 234, "topic": "Cricket",   "userName": "Cricbuzz",
+    "title": "India wins series against Australia 2-1",
+    "time": "7h",   "image": "../public/tuiter/IndvsAus.webp" },
+  { "_id": 345, "topic": "Health",  "userName": "CNN",
+    "title": "New Covid Booster released in US",
+    "time": "4d",   "image": "../public/tuiter/covid19booster.jpeg" }
+]
