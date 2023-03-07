@@ -3,19 +3,19 @@
       "_id": 123,
       "userName": "Google",
       "handle": "google",
-      "avatarIcon": "../public/tuiter/googlelogo.png"
+      "avatarIcon": "https://53.fs1.hubspotusercontent-na1.net/hub/53/hubfs/image8-2.jpg?width=1190&height=800&name=image8-2.jpg"
     },
     {
       "_id": 234,
       "userName": "Walmart",
       "handle": "walmart",
-      "avatarIcon": "../public/tuiter/walmartlogo.png"
+      "avatarIcon": "https://cdn.mos.cms.futurecdn.net/5StAbRHLA4ZdyzQZVivm2c-1200-80.jpg.webp"
     },
     {
       "_id": 345,
       "userName": "Apple",
       "handle": "apple",
-      "avatarIcon": "../public/tuiter/applelogo.png"
+      "avatarIcon": "https://1000logos.net/wp-content/uploads/2016/10/Apple-Logo.png"
     }
   ]
   
