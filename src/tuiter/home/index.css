@@ -67,7 +67,7 @@
  .wd-images{
      height: 100px;
      width: 100px;
-     float: right;
+     float: center;
      margin-right: 16px;
      margin-top: 5px;
      border-radius: 15px
