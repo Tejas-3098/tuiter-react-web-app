@@ -2,7 +2,7 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 /* eslint-disable jsx-a11y/alt-text */
 import React from "react";
-import NavigationSidebar from "../NavigationSidebar/index";
+import NavigationSidebar from "../navigation-sidebar/index";
 import PostList from "../PostList/PostList";
 import PostSummaryList from "../PostSummaryList/index";
 
