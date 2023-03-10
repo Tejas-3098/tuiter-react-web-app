@@ -5,7 +5,7 @@ import WhoToFollowListItem
 import ExploreComponent
   from "./explore/index.js";
 import {Routes, Route} from "react-router";
-import HomeComponent from "./home";
+import HomeScreen from "./home";
 
 function Tuiter() {
  return (
@@ -17,7 +17,7 @@ function Tuiter() {
            style={{"position": "relative"}}>
         <Routes>
                  <Route path="explore" element={<ExploreComponent/>}/>
-                 <Route path="home" element={<HomeComponent/>}/>
+                 <Route path="home" element={<HomeScreen/>}/>
 
                </Routes>
       </div>
