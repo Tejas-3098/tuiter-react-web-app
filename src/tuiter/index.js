@@ -5,7 +5,7 @@ import WhoToFollowListItem
 import ExploreComponent
   from "./explore/index.js";
 import {Routes, Route} from "react-router";
-import HomeScreen from "./home";
+import HomeScreen from "./home/HomeScreen.js";
 
 function Tuiter() {
  return (
