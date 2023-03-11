@@ -13,7 +13,7 @@
 }
 
 .wd-title-post{
-    color: white;
+    color: black;
 }
 
 .icons {
@@ -36,11 +36,11 @@
 }
 
 .wd-post .list-group-item{
-    background-color: black;
+    background-color: white;
     border: none;
 }
 .list-group{
-    background-color: black;
+    background-color: white;
 }
 .wd-round-corner{
     border-radius: 25px;
