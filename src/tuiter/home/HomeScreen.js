@@ -10,9 +10,7 @@ const HomeScreen = () => {
     return(
         <>
             <div className="row mt-2">
-                <div className="col-sm-2 col-md-2 col-lg-1 col-xl-2">
-                    <NavigationSidebar activeContent="Home"/>
-                </div>
+                
                 <div className=" col-xl-6 col-lg-6 col-sm-10 col-md-10 wd-post">
                     <PostList/>
                 </div>
