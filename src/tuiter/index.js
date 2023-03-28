@@ -13,10 +13,11 @@ import tuits from "./reducers/tuits";
 import { configureStore }
     from '@reduxjs/toolkit';
 import {Provider} from "react-redux";
-const store = configureStore(
-    {reducer: {who: whoReducer, tuits: tuits}});
 import HomeScreen from "./home/HomeScreen.js";
 import {Link} from "react-router-dom";
+const store = configureStore(
+    {reducer: {who: whoReducer, tuits: tuits}});
+
 
 function Tuiter() {
  return (
