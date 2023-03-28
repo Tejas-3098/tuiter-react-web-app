@@ -1,0 +1,98 @@
+[
+  {
+    "_id": "123",
+    "topic": "Web Development",
+    "userName": "ReactJS",
+    "verified": false,
+    "handle": "ReactJS",
+    "time": "2h",
+    "title": "React.js is a component based front end library that makes it very easy to build Single Page Applications or SPAs",
+    "tuit": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "attachments": {
+      "video": "unKvMC3Y1kI"
+    },
+    "logo-image": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1200x1200/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2021/04/27093802/Lunar-lander-versions.jpeg",
+    "avatar-image": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1200x1200/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2021/04/27093802/Lunar-lander-versions.jpeg",
+    "stats": {
+      "comments": 123,
+      "retuits": 234,
+      "likes": 345
+    }
+  },
+  {
+    "_id": "567",
+    "topic": "Space",
+    "userName": "SpaceX",
+    "verified": false,
+    "handle": "spacex",
+    "title": "",
+    "tuit": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "attachments": {
+      "image": "https://occ-0-1723-1722.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABSTVj5DHrlahOykYCHrcwL63gTkGzcXodPQgvrJXFqQMFg4Ktgtxmh_fGFJbsMF9BwmIbdW4L17YdJejrxJNwqyEnAP-.jpg?r=3d5"
+    },
+    "time": "last month",
+    "logo-image": "https://occ-0-1723-1722.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABSTVj5DHrlahOykYCHrcwL63gTkGzcXodPQgvrJXFqQMFg4Ktgtxmh_fGFJbsMF9BwmIbdW4L17YdJejrxJNwqyEnAP-.jpg?r=3d5",
+    "avatar-image": "https://occ-0-1723-1722.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABSTVj5DHrlahOykYCHrcwL63gTkGzcXodPQgvrJXFqQMFg4Ktgtxmh_fGFJbsMF9BwmIbdW4L17YdJejrxJNwqyEnAP-.jpg?r=3d5",
+    "tuits": "120K",
+    "stats": {
+      "comments": 123,
+      "retuits": 234,
+      "likes": 345
+    }
+  },
+  {
+    "_id": "234",
+    "topic": "Space",
+    "userName": "Scott Manley",
+    "verified": true,
+    "handle": "DJSnM",
+    "published-date": "2020-12-10",
+    "time": "1 day",
+    "title": "JavaScript is programming language that can run on browsers as well as desktops",
+    "tuit": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "logo-image": "https://pbs.twimg.com/profile_images/966372680306868224/60wfGe9e.jpg",
+    "avatar-image": "https://pbs.twimg.com/profile_images/966372680306868224/60wfGe9e.jpg",
+    "tuits": "123K",
+    "stats": {
+      "comments": 123,
+      "retuits": 234,
+      "likes": 345
+    }
+  },
+  {
+    "_id": "345",
+    "topic": "Web Development",
+    "userName": "jQuery",
+    "verified": false,
+    "handle": "jQuery",
+    "title": "jQuery",
+    "tuit": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "time": "last week",
+    "logo-image": "https://imgix.pedestrian.tv/content/uploads/2021/10/03/grimes-karl-marx-the-communist-manifesto-photoshoot.jpg?ar=16%3A9&auto=format&crop=focal&fit=crop&q=65&w=1200",
+    "avatar-image": "https://imgix.pedestrian.tv/content/uploads/2021/10/03/grimes-karl-marx-the-communist-manifesto-photoshoot.jpg?ar=16%3A9&auto=format&crop=focal&fit=crop&q=65&w=1200",
+    "tweets": "122K",
+    "stats": {
+      "comments": 123,
+      "retuits": 234,
+      "likes": 345
+    }
+  },
+  {
+    "_id": "456",
+    "topic": "Web Development",
+    "userName": "NodeJS",
+    "verified": true,
+    "handle": "NodeJS",
+    "title": "",
+    "tuit": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "time": "last month",
+    "logo-image": "https://imgix.pedestrian.tv/content/uploads/2021/10/03/grimes-karl-marx-the-communist-manifesto-photoshoot.jpg?ar=16%3A9&auto=format&crop=focal&fit=crop&q=65&w=1200",
+    "avatar-image": "https://imgix.pedestrian.tv/content/uploads/2021/10/03/grimes-karl-marx-the-communist-manifesto-photoshoot.jpg?ar=16%3A9&auto=format&crop=focal&fit=crop&q=65&w=1200",
+    "tuits": "120K",
+    "stats": {
+      "comments": 123,
+      "retuits": 234,
+      "likes": 345
+    }
+  }
+]

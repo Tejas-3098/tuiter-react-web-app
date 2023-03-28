@@ -1,0 +1,11 @@
+{
+  "username": "David Beckham",
+  "avatarIcon": "https://github.com/jannunzi/web-dev/blob/master/public/images/elon.jpg?raw=true",
+  "handle": "davidbeckham",
+  "bio": " English former professional footballer, the current president & co-owner of Inter Miami CF",
+  "location": "London, UK",
+  "dob": "May 2, 1975",
+  "joined" : "June 2011",
+  "following" : "345",
+  "followers": "20M"
+}
