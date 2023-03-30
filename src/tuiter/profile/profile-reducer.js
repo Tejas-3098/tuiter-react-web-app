@@ -6,7 +6,7 @@ const profile = {
     handle: '@ts3098',
     profilePicture: 'profile.png',
     bannerPicture: 'cover.jpg',
-    bio: 'Graduate Student @northeastern | Proficient using Java, SQL, Python | Web Development and Mobile Development',
+    bio: 'MSCS Graduate Student @northeastern | Python, Java, SQL ,C# | Web Development and Machine Learning',
     website: 'www.linkedin.com',
     location: 'Boston, MA',
     dateOfBirth : '1998-11-30',
