@@ -1,36 +1,31 @@
-import React from "react";
-import {useDispatch} from "react-redux";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faComment, faHeart, faShareFromSquare, faCommentAlt } from '@fortawesome/free-regular-svg-icons'
+import { faHeart as faHeartSolid} from '@fortawesome/free-solid-svg-icons'
 
-const TuitStats = ({tuit}) => {
-    const dispatch = useDispatch();
-    const likeClickHandler = () => {
-        dispatch({type: 'like-tuit', tuit});
-    };
-    return (<div className="row mt-2">
-        <div className="col">
-            <i className="far fa-comment me-2"></i>
-            {tuit.stats.comments}
-        </div>
-        <div className="col">
-            <i className="fas fa-retweet me-2"></i>
-            {tuit.stats.retweets}
-        </div>
-        <div className="col" onClick={likeClickHandler}>
-            {
-                tuit.liked &&
-                <i className="fas fa-heart me-2"
-                   style={{color: tuit.liked ? 'red': "white"}}></i>
-            }
-            {
-                !tuit.liked &&
-                <i className="far fa-heart me-2"></i>
-            }
-            {tuit.stats.likes}
-        </div>
-        <div className="col">
-            <i className="fas fa-external-link-alt me-2"></i>
-        </div>
-    </div>)
-}
 
+const TuitStats = ({ post }) => {
+    return (
+        <div class="row pt-2 ps-2">
+            <div class="col-3 text-gray">
+                <FontAwesomeIcon icon={faComment} />
+                &nbsp;{post.replies}
+            </div>
+            <div class="col-3 text-gray">
+                <FontAwesomeIcon icon={faCommentAlt} />
+                &nbsp;{post.retuits}
+            </div>
+            <div class="col-3 text-gray">
+                {post.liked ? (
+                    <FontAwesomeIcon icon={faHeartSolid} color="red" />
+                ) : (
+                    <FontAwesomeIcon icon={faHeart} />
+                )}
+                &nbsp;{post.likes}
+            </div>
+            <div class="col-3 text-gray">
+                <FontAwesomeIcon icon={faShareFromSquare} />
+            </div>
+        </div>
+    );
+};
 export default TuitStats;
