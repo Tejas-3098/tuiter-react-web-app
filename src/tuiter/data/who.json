@@ -10,6 +10,6 @@
     "userName": "Virgin Galactic",
     "handle": "virgingalactic"
   },
-  { "avatarIcon": "NASA.jpg", "userName": "NASA", "handle": "NASA" },
+  { "avatarIcon": "NASA.jpeg", "userName": "NASA", "handle": "NASA" },
   { "avatarIcon": "tesla.jpeg", "userName": "Tesla", "handle": "Tesla" }
 ]
