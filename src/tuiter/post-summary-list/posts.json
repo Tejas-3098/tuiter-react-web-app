@@ -1,12 +1,10 @@
-[
-    { "_id": 123, "topic": "Global News", "userName": "The New York Times",
-  "title": "Oil prices continuously rise",
-  "time": "2h",   "image": "https://static01.nyt.com/images/2022/02/02/business/02oil-prices-1/02oil-prices-1-superJumbo.jpg?quality=75&auto=webp" },
-  { "_id": 234, "topic": "Cricket",   "userName": "Cricbuzz",
-    "title": "India wins series against Australia 2-1",
-    "time": "7h",   "image": "https://static.toiimg.com/thumb/msid-97774171,imgsize-64040,width-400,resizemode-4/97774171.jpg" },
-  { "_id": 345, "topic": "Health",  "userName": "CNN",
-    "title": "New Covid Booster released in US",
-    "time": "4d",   "image": "https://www.reuters.com/resizer/FSHMcXaH_oujv8l-cd1GUn1Rbxk=/1080x0/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KTLZAWEZL5OQTDNTWZQUMI75ZA.jpg" }
+[{ "_id": 123, "topic": "Space", "userName": "SpaceX",
+  "title": "Tesla Cybertruck lands on Mars and picks up the Curiosity rover on its 6' bed",
+  "time": "2h",   "image": "tesla.jpg" },
+  { "_id": 234, "topic": "Space",   "userName": "SpaceX",
+    "title": "100s of SpaceX Starships land on Mars after a 6 month journey. 1000s of Martian colonists being building Mars Base 1",
+    "time": "2h",   "image": "spacex.jpg" },
+  { "_id": 345, "topic": "Energy",  "userName": "Tesla",
+    "title": "Tesla FSD finally makes driving obsolete. After years of delay, Tesla Full Self Driving can drive you to work while you work, play, or sleep",
+    "time": "4d",   "image": "tesla.jpg" }
 ]
-

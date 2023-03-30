@@ -1,9 +1,9 @@
 import React from "react";
-import './Tuit.css';
-import TuitStats from "./TuitStats";
+import './index.css';
+import TuitStats from "./tuit-stats";
 import {useDispatch} from "react-redux";
 
-const TuitListItem = ({tuit}) => {
+const TuitList = ({tuit}) => {
     const dispatch = useDispatch();
     const deleteTuitClickHandler = () => {
         dispatch({type: 'delete-tuit', tuit})
@@ -49,4 +49,4 @@ const TuitListItem = ({tuit}) => {
     );
 };
 
-export default TuitListItem;
+export default TuitList;

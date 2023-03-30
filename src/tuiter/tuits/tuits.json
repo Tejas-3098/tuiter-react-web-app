@@ -1,18 +1,29 @@
 [
-  {   "userImage": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1200x1200/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2021/04/27093802/Lunar-lander-versions.jpeg",
-    "postImage": "https://occ-0-1723-1722.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABSTVj5DHrlahOykYCHrcwL63gTkGzcXodPQgvrJXFqQMFg4Ktgtxmh_fGFJbsMF9BwmIbdW4L17YdJejrxJNwqyEnAP-.jpg?r=3d5",
-    "userName": "Elon Musk", "handle": "elonmusk", "time": "23h",
-    "title": "Amazing show about @inspiration4x mission",
-    "postTitle":"Countdown Inspirational4 Mission to Space | Netfilx Official Site",
-    "postContent": "From training to launch launch to landing, this all-access docuseries rides along with the Inspiration4 crew on the first all-civilian orbital space mission.",
-    "likes": "37.5K", "shares": "3.5K", "comments": "4.2K"
+  {
+    "_id": 234,
+    "topic": "Space",
+    "userName": "SpaceX",
+    "time": "2h",
+    "title": "100s of SpaceX Starships land on Mars after a 6 month journey. 1000s of Martian colonists being building Mars Base 1",
+    "image": "spacex.jpg",
+    "liked": true,
+    "replies": 123,
+    "retuits": 432,
+    "likes": 2345,
+    "handle": "@spacex",
+    "tuit": "You want to wake up in the morning and think the future is going to be great - and that’s what being a spacefaring civilization is all about. It’s about believing in the future and thinking that the future will be better than the past. And I can’t think of anything more exciting than going out there and being among the stars"
   },
-  {   "userImage": "https://pbs.twimg.com/profile_images/966372680306868224/60wfGe9e.jpg",
-    "postImage": "https://imgix.pedestrian.tv/content/uploads/2021/10/03/grimes-karl-marx-the-communist-manifesto-photoshoot.jpg?ar=16%3A9&auto=format&crop=focal&fit=crop&q=65&w=1200",
-    "userName": "New York Post", "handle": "nypost", "time": "23h",
-    "title": "Grimes seen reading Karl Marx following split with world's richest man Elon Musk https://trib.al/nx2Gfaq",
-    "postTitle":" ",
-    "postContent": " ",
-    "likes": "4K", "shares": "2.4K", "comments": "965"
+  {
+    "topic": "Energy",
+    "userName": "Tesla",
+    "title": "Tesla FSD finally makes driving obsolete. After years of delay, Tesla Full Self Driving can drive you to work while you work, play, or sleep",
+    "time": "4d",
+    "image": "tesla.jpg",
+    "liked": false,
+    "replies": 345,
+    "retuits": 321,
+    "likes": 234,
+    "handle": "@tesla",
+    "tuit": "Autopilot is an advanced driver assistance system that enhances safety and convenience behind the wheel. When used properly, Autopilot reduces your overall workload as a driver. Each new Tesla vehicle is equipped with eight external cameras and powerful vision processing to provide an additional layer of safety. Model 3 and Model Y built for the European and Middle Eastern markets will now utilise our camera-based Tesla Vision, which are not equipped with radar and instead rely on Tesla’s advanced suite of cameras and neural net processing to deliver Autopilot and related features."
   }
 ]

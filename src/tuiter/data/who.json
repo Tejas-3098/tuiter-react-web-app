@@ -1,21 +1,15 @@
 [
-    {
-      "_id": 123,
-      "userName": "Google",
-      "handle": "google",
-      "avatarIcon": "https://53.fs1.hubspotusercontent-na1.net/hub/53/hubfs/image8-2.jpg?width=1190&height=800&name=image8-2.jpg"
-    },
-    {
-      "_id": 234,
-      "userName": "Walmart",
-      "handle": "walmart",
-      "avatarIcon": "https://cdn.mos.cms.futurecdn.net/5StAbRHLA4ZdyzQZVivm2c-1200-80.jpg.webp"
-    },
-    {
-      "_id": 345,
-      "userName": "Apple",
-      "handle": "apple",
-      "avatarIcon": "https://1000logos.net/wp-content/uploads/2016/10/Apple-Logo.png"
-    }
-  ]
-  
+  { "avatarIcon": "java.png", "userName": "Java", "handle": "Java" },
+  {
+    "avatarIcon": "relativity-space.png",
+    "userName": "Relativity Space",
+    "handle": "relativityspace"
+  },
+  {
+    "avatarIcon": "virgin.png",
+    "userName": "Virgin Galactic",
+    "handle": "virgingalactic"
+  },
+  { "avatarIcon": "NASA.jpg", "userName": "NASA", "handle": "NASA" },
+  { "avatarIcon": "tesla.jpg", "userName": "Tesla", "handle": "Tesla" }
+]

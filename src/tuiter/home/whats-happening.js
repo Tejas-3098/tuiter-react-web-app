@@ -10,12 +10,11 @@ const WhatsHappening = () => {
             tuit: whatsHappening
         }
         dispatch(createTuit(newTuit));
-        console.log(whatsHappening);
     }
     return (
         <div className="row">
             <div className="col-auto">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" width={60}/>
+                <img src="../../../public/images/NASA.jpg" width={60}/>
             </div>
             <div className="col-10">
        <textarea value={whatsHappening} placeholder="What's happening?"
@@ -41,4 +40,3 @@ const WhatsHappening = () => {
     );
 }
 export default WhatsHappening;
-
