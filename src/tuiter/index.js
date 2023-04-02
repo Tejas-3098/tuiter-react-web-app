@@ -13,6 +13,7 @@ import profileReducer from "./profile/profile-reducer";
 import EditProfile from "./edit-profile";
 const store = configureStore({ reducer: { who: whoReducer , tuitsData: tuitsReducer, profile: profileReducer} });
 
+
 function Tuiter() {
     return (
         <Provider store={store}>
