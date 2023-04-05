@@ -3,14 +3,14 @@ import {useDispatch} from "react-redux";
 import { createTuitThunk } from "../../services/tuits-thunk";
 
 const WhatsHappening = () => {
-    let [whatsHappening, setWhatsHappening] = useState('');
+    let [whatsHappening, setWhatsHappening] = useState("");
     const dispatch = useDispatch();
     const tuitClickHandler = () => {
         const newTuit = {
             tuit: whatsHappening,
         };
         dispatch(createTuitThunk(newTuit));
-    }
+    };
     return (
         <div className="row">
             <div className="col-auto">
