@@ -10,7 +10,7 @@ import {
 const currentUser = {
     userName: "NASA",
     handle: "@nasa",
-    image: "NASA.jpg",
+    image: "NASA.jpeg",
 };
 
 const initialState = {
@@ -32,7 +32,7 @@ const templateTuit = {
 
 const tuitsSlice = createSlice({
     name: "tuits",
-    initialState: tuits,
+    initialState,
     extraReducers: {
         [deleteTuitThunk.fulfilled]: (state, { payload }) => {
             state.loading = false;
