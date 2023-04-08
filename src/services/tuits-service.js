@@ -1,7 +1,6 @@
 import axios from "axios";
-//const API_BASE = "https://a8--silly-kataifi-ef5d6e.netlify.app/tuiter/home";
-//const TUITS_API = `${API_BASE}/tuits`;
-const TUITS_API = "http://localhost:4000/api/tuits";
+const API_BASE = process.env.REACT_APP_API_BASE;
+const TUITS_API = `${API_BASE}/tuits`;
 export const findTuits = async () => {
     const response = await axios.get(TUITS_API);
     const tuits = response.data;
